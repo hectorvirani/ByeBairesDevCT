@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Computrabajo Blocker",
+  "version": "1.0",
+  "description": "Blocks BairesDev LLC jobs on Computrabajo.",
+  "content_scripts": [
+    {
+      "matches": ["*://*.computrabajo.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}

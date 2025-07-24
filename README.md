@@ -24,6 +24,6 @@ Algunas empresas publican en exceso o no ofrecen oportunidades reales. Esta exte
 
 Puedes editar el archivo `content.js` para bloquear otras empresas. Solo cambia el texto `"BairesDev LLC"` por el nombre que quieras.
 
-## ⚠️ Nota
+## Nota
 
 Esta extensión fue creada con fines personales y educativos. No está afiliada a Computrabajo ni a ninguna empresa mencionada.
